@@ -57,11 +57,11 @@ Encargados: Sergio y Hugo
 Encargado: Miguel
 
 ## 8. Recursos del Proyecto  
-	- Equipo de trabajo: roles y responsabilidades.  
-	- Recursos materiales y tecnológicos: servidores, software, licencias, etc.  
-	- Presupuesto estimado.
+  - Equipo de trabajo: roles y responsabilidades.  
+  - Recursos materiales y tecnológicos: servidores, software, licencias, etc.  
+  - Presupuesto estimado.
 
-Encargados: Hector Diaz y Hector Castro
+Encargados: Héctor Diaz y Héctor Castro
 
 ## 9. Gestión del Proyecto  
   - Metodología: (ágil, Scrum, Kanban, cascada, híbrida).  
@@ -70,7 +70,7 @@ Encargados: Hector Diaz y Hector Castro
   - Gestión de cambios: procedimiento para manejar modificaciones al alcance o requerimientos.  
   - Comunicación: reuniones, reportes, herramientas (Slack, Jira, Trello, etc.).
 
-Encargado: Hector Diaz 
+Encargado: Héctor Diaz 
 
 ## 10. Plan de Pruebas  
   - Tipos de pruebas (unitarias, integración, sistema, aceptación).  
